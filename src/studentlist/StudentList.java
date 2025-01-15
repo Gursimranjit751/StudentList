@@ -22,8 +22,10 @@ public class StudentList {
         s2.setName("Palak Shah");
         Student s3 = new Student();
         s3.setName("Megh Vankawala");
-//        Student s4 = new Student();
-//        s4.setName("Megh Vankawala");
+        Student s4 = new Student();
+        s4.setName("Megh Vankawala");
+         Student s5 = new Student();
+        s5.setName("Megh Vankawala");
 //       
         studentList[0] = s1;
         studentList[1] = s2;
